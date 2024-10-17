@@ -1,4 +1,4 @@
-# Download link and About
+# Requirenments
 
 Libraries/Modules used:
 1. PySide6
